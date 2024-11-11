@@ -1,3 +1,3 @@
-Autor: Bryan Alexander Díaz Vásquez\n
-País: El Salvador\n
+Autor: Bryan Alexander Díaz Vásquez
+País: El Salvador
 Aula: ES04
